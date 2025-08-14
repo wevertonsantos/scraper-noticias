@@ -29,7 +29,7 @@ pip install selenium
 2. Execute o script Python:
 
 ```bash
-python extrair_noticias.py
+python scraper_noticias.py
 ```
 
 3. Confira o arquivo `Principais notícias do dia.txt` gerado na mesma pasta do script.
