@@ -1,0 +1,7 @@
+noticia_0:Datafolha: 51% aprovam pris�o domiciliar de Bolsonaro, e 42% discordam
+noticia_1:Prefeito de S�o Bernardo � afastado ap�s opera��o contra corrup��o
+noticia_2:Vice-prefeita que assume a Prefeitura � da PM; veja perfil
+noticia_3:Cubano que ficou no Brasil ap�s fim do Mais M�dicos trabalha com liminar
+noticia_4:'Teve tempo de preparar a arma', diz juiz sobre suspeito de matar gari
+noticia_5:Perfis usam nome de Hytalo Santos para divulgar bets ilegais nas redes
+noticia_6:Instagram permitiu conversas 'sensuais' entre IA e crian�as, diz ag�ncia
