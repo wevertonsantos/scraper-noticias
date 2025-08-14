@@ -20,6 +20,7 @@ for noticia in noticias:
 
 with open("Principais notícias do dia.txt","w") as arquivo:
     for dado_noticia in dados_noticias:
+        #verificando se é o último elemento do dicionário
         if dado_noticia == list(dados_noticias)[-1]:
             arquivo.write(f"{dado_noticia}:{dados_noticias[dado_noticia]}")
         else:
